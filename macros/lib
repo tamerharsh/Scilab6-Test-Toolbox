@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<scilablib name="pointcloud_toolboxlib">
+  <macro name="getThresholdMin" file="getThresholdMin.bin" md5="6217b49694fa5954b12f74c00432e81a"/>
+  <macro name="getVariance" file="getVariance.bin" md5="2c0f4db5161bc447da22060d714a6771"/>
+  <macro name="readPC" file="readPC.bin" md5="6bebbd90e5c05ab478990471cf52fd2b"/>
+  <macro name="savePCDFileASCII" file="savePCDFileASCII.bin" md5="94ef19c5d284394e952e7f1d492a09ab"/>
+  <macro name="viewPC" file="viewPC.bin" md5="a6f2382c599849baa1200f590b48cf5b"/>
+</scilablib>
